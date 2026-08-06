@@ -1,0 +1,10 @@
+{
+  "id": 151649681,
+  "created_at": "2026-08-06T08:31:24.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["Smart-Gradient", "gmrfs", "sTiles", "esmail-abdulfattah.r-universe.dev"]
+}
